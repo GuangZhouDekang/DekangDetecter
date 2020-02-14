@@ -1,0 +1,2 @@
+# DekangDetecter
+在PowerMILL软件中实现模型的自动分中
